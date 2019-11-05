@@ -10,7 +10,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.4.9",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.18.9"
   },
   "devDependencies": {},
